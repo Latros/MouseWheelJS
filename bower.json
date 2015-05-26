@@ -1,6 +1,6 @@
 {
   "name": "MouseWheelJS",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/Latros/MouseWheelJS",
   "description": "MouseWheelJS is an easy-to-use mouse wheel wrapper.",
   "main": "MouseWheel.js",
