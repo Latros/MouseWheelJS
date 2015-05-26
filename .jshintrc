@@ -1,0 +1,31 @@
+{
+  "browser": true,
+  "esnext": false,
+  "bitwise": false,
+  "camelcase": true,
+  "indent": 4,
+  "latedef": true,
+  "newcap": false,
+  "noarg": true,
+  "regexp": true,
+  "loopfunc":true,
+  "undef": true,
+  "unused": true,
+  "strict": true,
+  "validthis": true,
+  "trailing": true,
+  "smarttabs": true,
+  "latedef": false,
+  "globals": {
+    "angular": false,
+    "joint": true,
+    "window": false,
+    "_": true,
+    "KeyboardJS": true,
+    "$": true,
+    "Backbone": true,
+    "inputs": true,
+    "console": true,
+    "module": true
+  }
+}
