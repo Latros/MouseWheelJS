@@ -1,0 +1,34 @@
+{
+  "name": "MouseWheelJS",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Latros/MouseWheelJS",
+  "description": "MouseWheelJS is an easy-to-use mouse wheel wrapper.",
+  "main": "MouseWheel.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "mouse",
+    "wheel",
+    "mousewheel",
+    "js",
+    "javascript",
+    "listener",
+    "bind",
+    "event",
+    "bindings",
+    "events",
+    "listeners"
+  ],
+  "authors": [
+    "Sam Stiles <samuel.dev.stiles@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
