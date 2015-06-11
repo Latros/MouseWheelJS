@@ -3,7 +3,7 @@
   "version": "1.0.2",
   "homepage": "https://github.com/Latros/MouseWheelJS",
   "description": "MouseWheelJS is an easy-to-use mouse wheel wrapper.",
-  "main": "MouseWheel.js",
+  "main": "mousewheel.js",
   "moduleType": [
     "globals"
   ],
